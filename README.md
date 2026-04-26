@@ -8,6 +8,5 @@ I'm a tech enthusiast passionate about programming, graphic design, and the ever
 - **Design:** Exploring creative solutions through graphic design.
 
 ### 🌱 Current Goals:
-- Building a strong foundation in software development.
 - Improving my coding logic and project structure.
 
